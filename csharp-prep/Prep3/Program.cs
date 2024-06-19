@@ -11,7 +11,7 @@ class Program
         int magicNumber = randomGenerator.Next(1, 101);
 
 
-        int guess = 0;
+        int guess = -1;
         bool repeat = true;
 
         do
