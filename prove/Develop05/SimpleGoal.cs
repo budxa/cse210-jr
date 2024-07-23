@@ -1,4 +1,4 @@
-﻿namespace Develop05;
+﻿using System;
 
 public class SimpleGoal
 {
