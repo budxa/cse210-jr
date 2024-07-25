@@ -1,0 +1,4 @@
+230
+SimpleGoal: talk - give talk in sacrament | 100 | True
+Eternal:[] study - scriptures | 30
+[X] Clean - clean the room and dishes (Completed 1/1 times) | 60 - 1|1|40
